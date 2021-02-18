@@ -1,4 +1,4 @@
-# deep-learning-online-classification
+# Data streams classification using deep learning under different speeds and drifts
 [![ADLStream > 0.1.3](https://img.shields.io/badge/ADLStream-0.1.3-%23009485)](https://github.com/pedrolarben/ADLStream/releases/tag/v0.1.3) 
 [![TensorFlow 2.2](https://img.shields.io/badge/TensorFlow-2.2-FF6F00?logo=tensorflow)](https://github.com/tensorflow/tensorflow/releases/tag/v2.2.0)
 [![River > 0.6](https://img.shields.io/badge/River-0.6-blue)](https://github.com/online-ml/river/releases/tag/0.6.0)
