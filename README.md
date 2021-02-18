@@ -111,7 +111,7 @@ python experiments_drift.py
 
 ## Research
 
-* Lara-Benítez, P., Carranza-García, M., Martínez-Álvarez, F., Riquelme Santos, J. C. "2Data streams classification using deep learning under different speeds and drifts". Currently under review in Logic Journal of the IGPL.
+* Lara-Benítez, P., Carranza-García, M., Martínez-Álvarez, F., Riquelme Santos, J. C. "Data streams classification using deep learning under different speeds and drifts". Currently under review in Logic Journal of the IGPL.
 
 ## Authors <a name="authors"></a>
 
