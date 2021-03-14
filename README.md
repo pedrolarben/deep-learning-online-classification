@@ -115,7 +115,7 @@ python experiments_drift.py
 
 ## Authors <a name="authors"></a>
 
-* **Pedro Lara-Benítez** - [@pedrolarben](https://www.github.com/pedrolarben) - [LinkedIn](www.linkedin.com/in/pedrolarben) 
+* **Pedro Lara-Benítez** - [@pedrolarben](https://www.github.com/pedrolarben) - [LinkedIn](https://www.linkedin.com/in/pedrolarben) 
 * **Manuel Carranza-García** - [@carranza96](https://www.github.com/carranza96) - [LinkedIn](https://www.linkedin.com/in/manuelcarranzagarcia96/)
 * **David Gutiérrez-Avilés**
 * **José C. Riquelme Santos**
